@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机动画标题 -->
-<img src="https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=200&multiline=true&height=80&lines=I'm+HFunction.;A+middle+school+student.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&multiline=true&width=435&height=80&lines=I'm+HFunction.;A+middle+school+student.;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!-- 个人简介徽章 -->
 [![Profile Views](https://komarev.com/ghpvc/?username=HFunction2013&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/HFunction2013)
