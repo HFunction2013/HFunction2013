@@ -46,9 +46,6 @@
   </tr>
 </table>
 
-<!-- 贡献活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HFunction2013&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1f6feb" alt="Activity Graph"/>
-
 ## Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HFunction2013/HFunction2013/output/github-contribution-grid-snake-dark.svg">
