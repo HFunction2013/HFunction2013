@@ -53,17 +53,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HFunction2013/HFunction2013/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
-
 <div align="center">
-
-<sub>Built with ❤️ using</sub>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> ·
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> ·
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity-graph</a> ·
-<a href="https://github.com/ryo-ma/github-profile-trophy">profile-trophy</a> ·
-<a href="https://github.com/tandpfun/skill-icons">skill-icons</a>
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=c9d1d9&animation=twinkling"/>
